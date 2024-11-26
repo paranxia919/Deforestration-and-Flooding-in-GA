@@ -8,19 +8,19 @@ QTM498R Capstone project starting Spring 2025. The project is planned to explore
 ## Potential Objectives
 
 •	Analyze historical deforestation patterns 
-•	Evaluate flooding frequency and severity trends
-•	Identify correlations between various environmental factors
-•	Develop policy recommendations
-•	Predict future flood frequency using machine learning
+•	Evaluate flooding frequency and severity trends 
+•	Identify correlations between various environmental factors 
+•	Develop policy recommendations 
+•	Predict future flood frequency using machine learning 
 
 ## Key Research Questions
 
-•	How have forest coverage patterns changed in Greater Atlanta since 1992?
-•	What is the relationship between deforestation and flooding frequency?
-•	How do land use changes impact water quality in the region?
-•	Which areas are most vulnerable to flooding? 
-•	What roles do industrial forests versus old-growth forests play? 
-•	How effective have existing environmental policies been?
+•	How have forest coverage patterns changed in Greater Atlanta since 1992? 
+•	What is the relationship between deforestation and flooding frequency? 
+•	How do land use changes impact water quality in the region? 
+•	Which areas are most vulnerable to flooding?  
+•	What roles do industrial forests versus old-growth forests play?  
+•	How effective have existing environmental policies been? 
 
 ## Deliverables
 
