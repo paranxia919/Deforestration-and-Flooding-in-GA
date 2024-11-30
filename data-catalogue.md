@@ -24,7 +24,7 @@
 
 ### Flood Data and Hazard Areas
 
-1. **Flood Frequency Data**
+1. **Flood Frequency Data [PREDICTED Frequency; not actual]**
    - Source: gNATSGO database (Natural Resources Conservation Services)
    - Last Updated: February 2024
    - Link: [Flood Frequency Data](https://sci4ga.maps.arcgis.com/home/item.html?id=e606abaf878340748710d4268ea06653)
@@ -36,13 +36,16 @@
    - Feature Layers: [FEMA NFHL Layers](https://hazards.fema.gov/arcgis/rest/services/public/NFHLWMS/MapServer/layers)
    - Data Dictionary: [FloodSmart.gov](https://www.floodsmart.gov/flood-zones-and-maps)
 
-3. **USGS Flood Resources**
+3. **USGS Flood Resources[Incomplete]**
    - Event Viewer: [USGS Flood Event Viewer](https://www.usgs.gov/mission-areas/water-resources/science/usgs-flood-event-viewer-providing-hurricane-and-flood)
    - Data Portal: [STN Data Portal](https://stn.wim.usgs.gov/STNDataPortal/#)
 
-4. **Global Flood Database**
+4. **Global Flood Database[Not very good/haven't find way to access data]**
    - Coverage: Until 2018
    - Link: [Cloud to Street Database](https://global-flood-database.cloudtostreet.ai/)
+   
+5. **CDC EPA Tracking Data**
+   - Link: [Data Explorer](https://ephtracking.cdc.gov/DataExplorer/)            
 
 ### Soil and Land Characteristics
 
@@ -72,7 +75,4 @@
 
 2. **EPA Data Hub**
 
-3. **CDC EPA Tracking Data**
-   - Link: [Data Explorer](https://ephtracking.cdc.gov/DataExplorer/)
-
-_Last Updated: 2024.11.17_
+_Last Updated: 2024.11.30_
