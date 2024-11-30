@@ -45,7 +45,10 @@
    - Link: [Cloud to Street Database](https://global-flood-database.cloudtostreet.ai/)
    
 5. **CDC EPA Tracking Data**
-   - Link: [Data Explorer](https://ephtracking.cdc.gov/DataExplorer/)            
+   - Link: [Data Explorer](https://ephtracking.cdc.gov/DataExplorer/)
+  
+6. **MODIS Flood data with flood events**
+   - Link: [Flood event](https://www.earthdata.nasa.gov/data/instruments/modis/near-real-time-data/modis-nrt-flood-product)
 
 ### Soil and Land Characteristics
 
