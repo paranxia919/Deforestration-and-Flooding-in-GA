@@ -55,7 +55,6 @@
    - Map Viewer: [MRLC Viewer](https://www.mrlc.gov/viewer/)
    - Tree Canopy Resources: [Story Maps Collection](https://storymaps.arcgis.com/collections/5f9c11bf49374447bdfaf339fb8f63f3?item=3)
 
-## Regional Data
 
 ### South Georgia Specific
 
