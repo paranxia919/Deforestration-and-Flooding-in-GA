@@ -40,6 +40,12 @@ QTM498R Capstone project starting Spring 2025. The project is planned to explore
 
 •	Policy recommendation document
 
+## Track of Intermediate progress
+
+•	`EPA and FEMA flood visualization` can be served as a template for making visualizations in python using shapefile of GA counties
+
+•	`Chatham County Record` can be served as a template for making change of land cover overtime using MRLC data
+
 ## Author
 Name: Jinghan (Summer) Sun
 
