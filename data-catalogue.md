@@ -35,6 +35,8 @@
    - Link: [FEMA Hazard Areas](https://sci4ga.maps.arcgis.com/home/item.html?id=2b245b7f816044d7a779a61a5844be23)
    - Feature Layers: [FEMA NFHL Layers](https://hazards.fema.gov/arcgis/rest/services/public/NFHLWMS/MapServer/layers)
    - Data Dictionary: [FloodSmart.gov](https://www.floodsmart.gov/flood-zones-and-maps)
+   - Data Dictionary2: [Flood maps and Zones explained](https://www.fema.gov/blog/fema-flood-maps-and-zones-explained)
+   - 
 
 3. **USGS Flood Resources[Incomplete]**
    - Event Viewer: [USGS Flood Event Viewer](https://www.usgs.gov/mission-areas/water-resources/science/usgs-flood-event-viewer-providing-hurricane-and-flood)
