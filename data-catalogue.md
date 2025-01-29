@@ -18,7 +18,7 @@
    - GIS Resources: [USFS ArcGIS Gallery](https://usfs.maps.arcgis.com/home/gallery.html?sortField=modified&sortOrder=desc&focus=layers)
    - Tree Canopy Cover: [USFS Raster Gateway](https://data.fs.usda.gov/geodata/rastergateway/treecanopycover/index.php#currentdata)
 
-4. **USGS National Land Cover Database**
+4. **USGS National Land Cover Database [Aggregated on county level]**
    - Type: Annual Database
    - Access: [USGS EROS Data Access](https://www.usgs.gov/centers/eros/science/data-access)
 
@@ -46,18 +46,18 @@
    - Coverage: Until 2018
    - Link: [Cloud to Street Database](https://global-flood-database.cloudtostreet.ai/)
    
-5. **CDC EPA Tracking Data**
+5. **CDC EPA and FEMA flood hazard zone Data[processed on county level]**
    - Link: [Data Explorer](https://ephtracking.cdc.gov/DataExplorer/)
   
-6. **MODIS Flood data with flood events**
+6. **MODIS Flood data with flood events[massive satellite data]**
    - Link: [Flood event](https://www.earthdata.nasa.gov/data/instruments/modis/near-real-time-data/modis-nrt-flood-product)
 
 ### Soil and Land Characteristics
 
-1. **gNATSGO Soil Data**
+1. **gNATSGO Soil Data[soil data can be potentially used for flood prediction]**
    - Link: [NRCS Soil Database](https://www.nrcs.usda.gov/resources/data-and-reports/gridded-national-soil-survey-geographic-database-gnatsgo)
 
-2. **Multi-Resolution Land Characteristics (MRLC)**
+2. **Multi-Resolution Land Characteristics (MRLC)[mapping resources and land cover data in general]**
    - Main Portal: [MRLC Data](https://www.mrlc.gov/data?f%5B0%5D=project_tax_term_term_parents_tax_term_name%3AAnnual%20NLCD)
    - Feature Layers: [MRLC Services](https://www.mrlc.gov/data-services-page)
    - Map Viewer: [MRLC Viewer](https://www.mrlc.gov/viewer/)
@@ -72,12 +72,5 @@
      - [Digital Coast Data](https://coast.noaa.gov/digitalcoast/data/)
      - [CCAP Regional Data](https://coast.noaa.gov/digitalcoast/data/ccapregional.html)
 
-### Other Resources
-
-1. **Adopt-A-Stream**
-   - Data Available: Through 2021 (Github repository)
-   - Status: Web portal currently experiencing errors (as of 2024.11.8)
-
-2. **EPA Data Hub**
 
 _Last Updated: 2024.11.30_
