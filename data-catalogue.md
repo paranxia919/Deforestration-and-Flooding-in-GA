@@ -21,6 +21,15 @@
 4. **USGS National Land Cover Database [Aggregated on county level]**
    - Type: Annual Database
    - Access: [USGS EROS Data Access](https://www.usgs.gov/centers/eros/science/data-access)
+  
+5. **gNATSGO Soil Data[soil data can be potentially used for flood prediction]**
+   - Link: [NRCS Soil Database](https://www.nrcs.usda.gov/resources/data-and-reports/gridded-national-soil-survey-geographic-database-gnatsgo)
+
+6. **Multi-Resolution Land Characteristics (MRLC)[mapping resources and land cover data in general]**
+   - Main Portal: [MRLC Data](https://www.mrlc.gov/data?f%5B0%5D=project_tax_term_term_parents_tax_term_name%3AAnnual%20NLCD)
+   - Feature Layers: [MRLC Services](https://www.mrlc.gov/data-services-page)
+   - Map Viewer: [MRLC Viewer](https://www.mrlc.gov/viewer/)
+   - Tree Canopy Resources: [Story Maps Collection](https://storymaps.arcgis.com/collections/5f9c11bf49374447bdfaf339fb8f63f3?item=3)
 
 ### Flood Data and Hazard Areas
 
@@ -41,17 +50,5 @@
   
 6. **MODIS Flood data with flood events[massive satellite data]**
    - Link: [Flood event](https://www.earthdata.nasa.gov/data/instruments/modis/near-real-time-data/modis-nrt-flood-product)
-
-### Soil and Land Characteristics
-
-1. **gNATSGO Soil Data[soil data can be potentially used for flood prediction]**
-   - Link: [NRCS Soil Database](https://www.nrcs.usda.gov/resources/data-and-reports/gridded-national-soil-survey-geographic-database-gnatsgo)
-
-2. **Multi-Resolution Land Characteristics (MRLC)[mapping resources and land cover data in general]**
-   - Main Portal: [MRLC Data](https://www.mrlc.gov/data?f%5B0%5D=project_tax_term_term_parents_tax_term_name%3AAnnual%20NLCD)
-   - Feature Layers: [MRLC Services](https://www.mrlc.gov/data-services-page)
-   - Map Viewer: [MRLC Viewer](https://www.mrlc.gov/viewer/)
-   - Tree Canopy Resources: [Story Maps Collection](https://storymaps.arcgis.com/collections/5f9c11bf49374447bdfaf339fb8f63f3?item=3)
-
 
 _Last Updated: 2024.1.31_
