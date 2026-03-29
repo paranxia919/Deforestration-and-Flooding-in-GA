@@ -47,6 +47,6 @@ QTM498R Capstone project starting Spring 2025. The project is planned to explore
 •	`Chatham County Record` can be served as a template for making change of land cover overtime using MRLC data
 
 ## Author
-Name: Jinghan (Summer) Sun
+Name: Jinghan (Summer) Sun, Sylvia Xing, Ellie Yang
 
 Contact: jinghan.sun@emory.edu
